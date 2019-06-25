@@ -1,0 +1,72 @@
+body{
+	background-color:800020;
+	color: white;
+	text-align:center;
+	margin: 10px
+}
+
+#header1{
+	background-color:black;
+	font-size: 2.0em;
+
+}
+#header2{
+	background-color:grey;
+	font-size: 2.0em;
+
+}
+#nav{
+	text-align:center;
+	font-size: 1.9em;
+
+}
+#contact{
+	line-height: 2;
+	font-size: 1.8em;
+
+}
+#footer{
+	text-align: left;
+	padding: 10;
+}
+#paragraph{
+	font-size: 1.8em;
+}
+a:link {
+  text-decoration: none;
+  color:white;
+}
+
+a:visited {
+  text-decoration: none;
+   color:white;  
+}
+
+a:hover {
+  text-decoration: underline;
+  color:yellow;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+ul{
+    padding: 10;
+	list-style-type: none;
+	line-height: 2;
+	font-size: 1.8em;
+
+}
+
+ol{
+    padding: 10;
+	list-style-type: none;
+	line-height: 2;
+	text-align: left;
+	font-size: 1.8em;
+
+}
+
+
+
